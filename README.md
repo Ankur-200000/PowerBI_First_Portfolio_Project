@@ -42,17 +42,9 @@ To explore this interactive dashboard and gain insights:
 * Locate and download the `.pbix` (Power BI Desktop File) from this GitHub repository.
 * You will need **Power BI Desktop** installed on your computer to open and interact with the file.
 
-### Explore Online (Highly Recommended):
+## Showcasing
 
-* For an immediate, interactive experience without needing Power BI Desktop, you can view the published version of this dashboard online. *(If published to Power BI Service or a public web embed).*
-
-    [Insert Power BI Service/Web Embed Link Here]
-    *(e.g., https://app.powerbi.com/view?r=eyJrIjoi...)*
-
-## Best Practices for Showcasing
-
-* **Screenshots/GIFs**: For a quick visual overview, static screenshots of key dashboard views or a short GIF demonstrating interactivity will be added to this `README.md`.
-* **Context**: This `README.md` provides essential context, outlining the project's goal, the data sources, and the key analyses performed.
+* GIFs**: Find here the dashboard demo gif: 
 
 ---
 
