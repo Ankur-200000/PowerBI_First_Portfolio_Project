@@ -44,7 +44,7 @@ To explore this interactive dashboard and gain insights:
 
 ## Showcasing
 
-* GIFs**: Find here the dashboard demo gif ![Power BI Dashboard Demo](PowerBI_First_Project.gif):
+* GIFs**: Find here the dashboard demo gif: ![Power BI Dashboard Demo](PowerBI_First_Project.gif)
 
 ---
 
